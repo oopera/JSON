@@ -1,19 +1,109 @@
 {
   "artists": [
     {
-      "name": "Nora",
+      "name" : "Nora",
       "surname": "Tschirner",
       "link": "/2022/12/21/nora-tschirner/"
     },
     {
-      "name": "Laura ",
+      "name" : "Laura ",
       "surname": "Wohlers",
       "link": "/2023/01/26/laura-wohlers/"
     },
     {
-      "name": "Klaas",
+      "name" : "Klaas",
       "surname": "Heufer-Umlauf",
       "link": "/2023/01/25/klaas-heufer-umlauf/"
+    },
+    {
+      "name" : "Baywatch",
+      "surname": "Berlin",
+      "link": "/artist-link-here/"
+    },
+    {
+      "name" : "Christiane",
+      "surname": "Stenger",
+      "link": "/artist-link-here/"
+    },
+    {
+      "name" : "Claire",
+      "surname": "Oelkers",
+      "link": "/artist-link-here/"
+    },
+    {
+      "name" : "Daniel",
+      "surname": "Boschmann",
+      "link": "/artist-link-here/"
+    },
+    {
+      "name" : "Jan",
+      "surname": "Köppen",
+      "link": "/artist-link-here/"
+    },
+    {
+      "name" : "Klaas",
+      "surname": "Heufer-Umlauf",
+      "link": "/artist-link-here/"
+    },
+    {
+      "name" : "Laura",
+      "surname": "Wohlers",
+      "link": "/artist-link-here/"
+    },
+    {
+      "name" : "Linda",
+      "surname": "Zervakis",
+      "link": "/artist-link-here/"
+    },
+    {
+      "name" : "Louis",
+      "surname": "Klamroth",
+      "link": "/artist-link-here/"
+    },
+    {
+      "name" : "Markus",
+      "surname": "Kavka",
+      "link": "/artist-link-here/"
+    },
+    {
+      "name" : "Nora",
+      "surname": "Tschirner",
+      "link": "/artist-link-here/"
+    },
+    {
+      "name" : "Olli",
+      "surname": "Schulz",
+      "link": "/artist-link-here/"
+    },
+    {
+      "name" : "Paulina",
+      "surname": "Krasa",
+      "link": "/artist-link-here/"
+    },
+    {
+      "name" : "Romina",
+      "surname": "Langenhan",
+      "link": "/artist-link-here/"
+    },
+    {
+      "name" : "Timon",
+      "surname": "Krause",
+      "link": "/artist-link-here/"
+    },
+    {
+      "name" : "Tommi",
+      "surname": "Schmitt",
+      "link": "/artist-link-here/"
+    },
+    {
+      "name" : "Salwa",
+      "surname": "Houmsi",
+      "link": "/artist-link-here/"
+    },
+    {
+      "name" : "Sandra",
+      "surname": "Rieß",
+      "link": "/artist-link-here/"
     }
   ]
 }

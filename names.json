@@ -1,109 +1,89 @@
 {
   "artists": [
     {
-      "name" : "Nora",
-      "surname": "Tschirner",
-      "link": "/2022/12/21/nora-tschirner/"
-    },
-    {
-      "name" : "Laura ",
-      "surname": "Wohlers",
-      "link": "/2023/01/26/laura-wohlers/"
-    },
-    {
-      "name" : "Klaas",
-      "surname": "Heufer-Umlauf",
-      "link": "/2023/01/25/klaas-heufer-umlauf/"
-    },
-    {
       "name" : "Baywatch",
       "surname": "Berlin",
-      "link": "/artist-link-here/"
+      "link": "/baywatch-berlin"
     },
     {
       "name" : "Christiane",
       "surname": "Stenger",
-      "link": "/artist-link-here/"
+      "link": "/christiane-stenger"
     },
-    {
+  {
       "name" : "Claire",
       "surname": "Oelkers",
-      "link": "/artist-link-here/"
+      "link": "/claire-oelkers"
     },
-    {
-      "name" : "Daniel",
-      "surname": "Boschmann",
-      "link": "/artist-link-here/"
-    },
-    {
+ {
       "name" : "Jan",
       "surname": "Köppen",
-      "link": "/artist-link-here/"
+      "link": "/jan-koeppen"
     },
-    {
+   {
       "name" : "Klaas",
       "surname": "Heufer-Umlauf",
-      "link": "/artist-link-here/"
+      "link": "/klaas-heufer-umlauf/"
     },
-    {
-      "name" : "Laura",
+  {
+      "name" : "Laura ",
       "surname": "Wohlers",
-      "link": "/artist-link-here/"
+      "link": "/laura-wohlers/"
     },
     {
       "name" : "Linda",
       "surname": "Zervakis",
-      "link": "/artist-link-here/"
+      "link": "/linda-zervakis"
     },
     {
       "name" : "Louis",
       "surname": "Klamroth",
-      "link": "/artist-link-here/"
+      "link": "/louis-klamroth"
     },
     {
       "name" : "Markus",
       "surname": "Kavka",
-      "link": "/artist-link-here/"
+      "link": "/markus-kavka"
     },
     {
       "name" : "Nora",
       "surname": "Tschirner",
-      "link": "/artist-link-here/"
-    },
+      "link": "/nora-tschirner/"
+    },   
     {
       "name" : "Olli",
       "surname": "Schulz",
-      "link": "/artist-link-here/"
+      "link": "/olli-schulz"
     },
     {
       "name" : "Paulina",
       "surname": "Krasa",
-      "link": "/artist-link-here/"
+      "link": "/paulina-krasa"
     },
     {
       "name" : "Romina",
       "surname": "Langenhan",
-      "link": "/artist-link-here/"
-    },
-    {
-      "name" : "Timon",
-      "surname": "Krause",
-      "link": "/artist-link-here/"
-    },
-    {
-      "name" : "Tommi",
-      "surname": "Schmitt",
-      "link": "/artist-link-here/"
+      "link": "/romina-langenhan"
     },
     {
       "name" : "Salwa",
       "surname": "Houmsi",
-      "link": "/artist-link-here/"
+      "link": "/salwa-houmsi"
     },
-    {
+      {
       "name" : "Sandra",
       "surname": "Rieß",
-      "link": "/artist-link-here/"
+      "link": "/sandra-riess"
+    },
+    {
+      "name" : "Timon",
+      "surname": "Krause",
+      "link": "/timon-krause"
+    },
+    {
+      "name" : "Tommi",
+      "surname": "Schmitt",
+      "link": "/tommi-schmitt"
     }
   ]
 }
